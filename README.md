@@ -1,10 +1,12 @@
 <h1 align="center">Hi!👋I am Zen!</h1>
-<p align="center">Passionate developer from Malaysia</p>
+<p>
+    Passionate developer from Malaysia.<br>
+    I am currently working on:
+    <ul>
+        <li>Continue excel my skills in HTML, CSS and Javascript!
+	</ul>
+</p>
 
-<h2>About Me</h2>
-<ul>
-  <li>I'm currently learning HTML, CSS and Javascript</li>
-</ul>
 
 
 <h2>Statistics</h2>
