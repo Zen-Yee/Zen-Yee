@@ -1,5 +1,5 @@
 <h1 align="center">Hi!👋I am Zen!</h1>
-<p>I am a fresher developer who is active seeking for opportunities to improve my skills to create responsive and user-friendly websites. </p>
+<p>I am a fresher developer who is active seeking for opportunities to improve my skills in creating responsive and user-friendly websites. </p>
 <p>I started my journey on programming when I rely on Visual Basic for Applications (VBA) heavily to automated my daily task as a MDM Analyst to process data. And now I decided to explore more on web developing, fulfilling my interest and at the same time create more oppotunities for my career advancement!</p>
 
 <p>
