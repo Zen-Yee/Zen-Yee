@@ -9,7 +9,4 @@
 	<br>
 </div>
 
-<h2>My Stats</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zen-Yee&show_icons=true&theme=transparent)
 
