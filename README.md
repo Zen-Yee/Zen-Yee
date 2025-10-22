@@ -31,8 +31,8 @@ Displays live weather data from OpenWeatherMap API.
 A simple calculator web app for basic arithmetic operations.
 
 **Tech Stack:** HTML, CSS, JavaScript  
-**Live Demo:** 
-**Repository:**  
+**Live Demo:** [View on GitHub Pages](https://zen-yee.github.io/Basic-Calculator/)  
+**Repository:** [Basic-Calculator](https://github.com/Zen-Yee/Basic-Calculator)
 
 ## 📰 Zenlogue
 A personal blog website built to share thoughts, notes, and development insights.
