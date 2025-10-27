@@ -14,19 +14,6 @@
 </div>
 
 # My Projects
-## 📝 To-Do List App
-A simple web app for managing daily tasks.
-
-**Tech Stack:** HTML, CSS, JavaScript  
-**Live Demo:**  
-**Repository:** 
-
-## 🌦️ Weather Dashboard
-Displays live weather data from OpenWeatherMap API.
-
-**Tech Stack:** HTML, CSS, JavaScript (Fetch API)  
-**Repository:** 
-
 ## 🧮 Calculator
 A simple calculator web app for basic arithmetic operations.
 
@@ -34,11 +21,20 @@ A simple calculator web app for basic arithmetic operations.
 **Live Demo:** [View on GitHub Pages](https://zen-yee.github.io/Basic-Calculator/)  
 **Repository:** [Basic-Calculator](https://github.com/Zen-Yee/Basic-Calculator)
 
-## 📰 Zenlogue
-A personal blog website built to share thoughts, notes, and development insights.
+## 📰 Zenlogue (To be upgraded)
+A personal blog site intended to evolve into a full-stack application.
+Current implementation stores posts in a JSON file with basic CRUD functionality.
+Future upgrade will include a database and a proper backend API.
 
-**Tech Stack:** HTML, CSS, JavaScript (or React, if applicable)  
-**Live Demo:** [View on GitHub Pages](https://yourname.github.io/zenlogue)  
+**Tech Stack:** HTML, CSS, JavaScript, Node.js   
 **Repository:** [Zenlogue-blogwebsite](https://github.com/Zen-Yee/Zenlogue-blogwebsite)
+
+## 🌦️ Weather App (In Progress)
+A weather application to practice API integration and secure API key handling.
+Displays live and forecast weather data using WeatherAPI.
+Currently restricted to queries for Kuala Lumpur.
+
+**Tech Stack:** HTML, CSS, JavaScript, Node.js  
+**Repository:** [Basic-Weather-App](https://github.com/Zen-Yee/Basic-Weather-App)
 
 
