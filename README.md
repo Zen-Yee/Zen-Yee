@@ -21,20 +21,28 @@ A simple calculator web app for basic arithmetic operations.
 **Live Demo:** [View on GitHub Pages](https://zen-yee.github.io/Basic-Calculator/)  
 **Repository:** [Basic-Calculator](https://github.com/Zen-Yee/Basic-Calculator)
 
-## 📰 Zenlogue (To be upgraded)
+## 📰 Zenlogue
 A personal blog site intended to evolve into a full-stack application.
 Current implementation stores posts in a JSON file with basic CRUD functionality.
-Future upgrade will include a database and a proper backend API.
 
 **Tech Stack:** HTML, CSS, JavaScript, Node.js   
 **Repository:** [Zenlogue-blogwebsite](https://github.com/Zen-Yee/Zenlogue-blogwebsite)
 
-## 🌦️ Weather App (In Progress)
+## 🌦️ Weather App 
 A weather application to practice API integration and secure API key handling.
 Displays live and forecast weather data using WeatherAPI.
 Currently restricted to queries for Kuala Lumpur.
 
-**Tech Stack:** HTML, CSS, JavaScript, Node.js  
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express   
+**Live Demo:** [View on GitHub Pages](https://zen-yee.github.io/Basic-Weather-App/)  
 **Repository:** [Basic-Weather-App](https://github.com/Zen-Yee/Basic-Weather-App)
+
+## 📰 Zenlogue 2.0 (In Progress)
+A personal blog site intended to evolve into a full-stack application.
+
+**Tech Stack:** HTML, CSS, JavaScript, Node.js   
+**Live Demo:** (TO BE UPDATED)  
+**Repository:** (TO BE UPDATED)  
+
 
 
