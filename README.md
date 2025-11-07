@@ -42,7 +42,7 @@ A personal blog site intended to evolve into a full-stack application.
 
 **Tech Stack:** HTML, CSS, JavaScript, Node.js   
 **Live Demo:** (TO BE UPDATED)  
-**Repository:** (TO BE UPDATED)  
+**Repository:** [Zenlogue 2.0-blogwebsite](https://github.com/Zen-Yee/Zenlogue-2.0-blogwebsite)
 
 
 
