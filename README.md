@@ -1,5 +1,5 @@
 <h1 align="center">Hi!👋I am Zen!</h1>
-<p>I’m a self-taught software developer with experience in software integration, front-end design, and database development. I currently work on developing data-driven dashboard applications, integrating multiple systems and data sources into interactive, real-time visualization platforms.</p>
+<p>I’m a fullstack developer with hands-on experience building authentication and role-based systems. I design and implement REST APIs with Node.js, Express, and PostgreSQL, integrating frontend interfaces using EJS (and React in progress). I’ve delivered projects including Zenlogue, which features JWT authentication, role-based access control, and ownership logic for posts and comments.</p>
 
 <p>My focus is on building responsive interfaces, connecting APIs, and designing structured databases that support performance and scalability. I prioritize clean, maintainable code and practical engineering solutions that improve usability and reliability.</p>
 
@@ -7,7 +7,7 @@
 
 [View My Portfolio](https://zen-yee.github.io/Zen_Portfolio/)
 
-# My Stats
+# My Skills
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zen-Yee&layout=compact&hide_title=1&card_width=300">
 	<br>
