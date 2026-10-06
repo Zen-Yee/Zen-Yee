@@ -1,48 +1,59 @@
-<h1 align="center">Hi!👋I am Zen!</h1>
-<p>I’m a fullstack developer with hands-on experience building authentication and role-based systems. I design and implement REST APIs with Node.js, Express, and PostgreSQL, integrating frontend interfaces using EJS (and React in progress). I’ve delivered projects including Zenlogue, which features JWT authentication, role-based access control, and ownership logic for posts and comments.</p>
+<h1 align="center">Hi!👋 I am Zen!</h1>
 
-<p>My focus is on building responsive interfaces, connecting APIs, and designing structured databases that support performance and scalability. I prioritize clean, maintainable code and practical engineering solutions that improve usability and reliability.</p>
+<p align="center">
+Full-stack developer based in the Klang Valley, Malaysia, transitioning into web development with a focus on AI-integrated applications.
+</p>
 
-<p>I’m open to new opportunities where I can apply my full-stack and integration skills to build efficient, user-focused applications.</p>
+<p>I build full-stack web applications with <strong>React</strong>, <strong>Node.js/Express</strong>, and <strong>PostgreSQL</strong>, with hands-on experience implementing JWT authentication, role-based access control, and ownership-based authorization. My primary project, <strong>Zenlogue</strong>, is a full-stack blog platform featuring a rich text editor, infinite-scroll comments, and a reactions system — built as a deep dive into real-world backend architecture (service/controller/middleware layering) and modern React patterns (context, custom hooks, nested routing).</p>
 
-[View My Portfolio](https://zen-yee.github.io/Zen_Portfolio/)
+<p>I also maintain <strong>ZenKit</strong>, a personal reusable React component library, as a space to practice reusable UI architecture and animation.</p>
 
-# My Skills
+<p>I'm currently working toward AI-integrated full-stack roles, with plans to ship an AI feature on Zenlogue, build a RAG project, and explore agent/MCP tooling.</p>
+
+<p>I'm open to new opportunities where I can apply my full-stack and integration skills to build efficient, user-focused applications.</p>
+
+<p>🔗 <a href="https://zen-yee.github.io/Zen_Portfolio/">View My Portfolio</a></p>
+
+## 🛠️ Skills
+
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zen-Yee&layout=compact&hide_title=1&card_width=300">
-	<br>
+  <br>
 </div>
 
-# My Projects
-## 🧮 Calculator
-A simple calculator web app for basic arithmetic operations.
+**Frontend:** React, React Router, Axios, TipTap  
+**Backend:** Node.js, Express, PostgreSQL, JWT Authentication  
+**Tooling & Practices:** REST API design, role-based access control, service/controller/middleware architecture, cursor & offset pagination
 
-**Tech Stack:** HTML, CSS, JavaScript  
-**Live Demo:** [View on GitHub Pages](https://zen-yee.github.io/Basic-Calculator/)  
-**Repository:** [Basic-Calculator](https://github.com/Zen-Yee/Basic-Calculator)
+## 🚀 Projects
 
-## 📰 Zenlogue
-A personal blog site intended to evolve into a full-stack application.
-Current implementation stores posts in a JSON file with basic CRUD functionality.
+### 📰 Zenlogue
+A full-stack blog platform — my primary learning vehicle for backend architecture and modern React.
 
-**Tech Stack:** HTML, CSS, JavaScript, Node.js   
-**Repository:** [Zenlogue-blogwebsite](https://github.com/Zen-Yee/Zenlogue-blogwebsite)
+- JWT authentication via HTTP-only cookies with a tri-state auth context and protected routing
+- Ownership-based authorization for posts and comments
+- Rich text editing with TipTap, content stored as JSON in PostgreSQL `jsonb`
+- Cursor-based pagination with infinite scroll for comments
+- Like/dislike reactions using a junction table with PostgreSQL upsert patterns
+- Full CRUD backend with service/controller/middleware layering
 
-## 🌦️ Weather App 
-A weather application to practice API integration and secure API key handling.
-Displays live and forecast weather data using WeatherAPI.
-Currently restricted to queries for Kuala Lumpur.
+**Tech Stack:** React, Express, PostgreSQL, JWT, TipTap  
+**Live Demo:** _(add your deployed link once live)_  
+**Repository:** [Zenlogue-2.0-blogwebsite](https://github.com/Zen-Yee/Zenlogue-2.0-blogwebsite)
 
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express   
+### 🧩 ZenKit
+A personal reusable React component library built in CodeSandbox, used to practice reusable UI architecture and animation.
+
+- Component library spanning Controls, Disclosure, and Forms
+- Custom accordion, carousel, icon button, and progress bar components
+- Animation patterns including CSS grid transitions and Framer Motion
+
+**Tech Stack:** React, CSS, Framer Motion  
+**Repository:** _(add your ZenKit repository link)_
+
+### 🌦️ Weather App
+A weather application for practicing API integration and secure API key handling. Displays live and forecast weather data using WeatherAPI.
+
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express  
 **Live Demo:** [View on GitHub Pages](https://zen-yee.github.io/Basic-Weather-App/)  
 **Repository:** [Basic-Weather-App](https://github.com/Zen-Yee/Basic-Weather-App)
-
-## 📰 Zenlogue 2.0 (In Progress)
-A personal blog site intended to evolve into a full-stack application.
-
-**Tech Stack:** HTML, CSS, JavaScript, Node.js   
-**Live Demo:** (TO BE UPDATED)  
-**Repository:** [Zenlogue 2.0-blogwebsite](https://github.com/Zen-Yee/Zenlogue-2.0-blogwebsite)
-
-
-
