@@ -48,7 +48,7 @@ A full-stack blog platform.
 
 `React` `Express` `PostgreSQL` `JWT` `TipTap`  
 
-**Live Demo:** [Zenlogue](https://zenlogue.vercel.app/) 
+**Live Demo:** [Zenlogue](https://zenlogue.vercel.app/)   
 **Repository:** [Zenlogue](https://github.com/Zen-Yee/Zenlogue)
 
 ### 🌦️ Weather App
