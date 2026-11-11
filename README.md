@@ -1,59 +1,69 @@
 <h1 align="center">Hi!👋 I am Zen!</h1>
 
 <p align="center">
-Full-stack developer based in the Klang Valley, Malaysia, transitioning into web development with a focus on AI-integrated applications.
+Full-stack developer based in the Klang Valley, Malaysia.
 </p>
 
-<p>I build full-stack web applications with <strong>React</strong>, <strong>Node.js/Express</strong>, and <strong>PostgreSQL</strong>, with hands-on experience implementing JWT authentication, role-based access control, and ownership-based authorization. My primary project, <strong>Zenlogue</strong>, is a full-stack blog platform featuring a rich text editor, infinite-scroll comments, and a reactions system — built as a deep dive into real-world backend architecture (service/controller/middleware layering) and modern React patterns (context, custom hooks, nested routing).</p>
+<p align="center">
+  <a href="https://zen-yee.github.io/Zen_Portfolio/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/qian-hui-yee-66a394205/">LinkedIn</a> ·
+  <a href="https://github.com/Zen-Yee?tab=repositories">Repositories</a>
+</p>
 
-<p>I also maintain <strong>ZenKit</strong>, a personal reusable React component library, as a space to practice reusable UI architecture and animation.</p>
+## About Me
 
-<p>I'm currently working toward AI-integrated full-stack roles, with plans to ship an AI feature on Zenlogue, build a RAG project, and explore agent/MCP tooling.</p>
+I started out as a **mechanical design engineer**, turning customer requirements into industrial designs that automate factory manufacturing. From there I moved into **data and process work**, maintaining master data in SAP and Excel and automating repetitive tasks with VBA, and taught myself to code along the way. I'm now a **Software Developer** (about 2 years), currently working on a Digital Twin project.
+ 
+What pulled me into software is what I enjoyed in design: **solving problems and linking things together**. I like thinking about pipelines, how data moves between systems, and the structure that makes an app easy to maintain.
+ 
+On my own time I build full-stack apps with **React, Node.js/Express and PostgreSQL**, with hands-on experience in JWT authentication, role-based access control and ownership-based authorization.
 
-<p>I'm open to new opportunities where I can apply my full-stack and integration skills to build efficient, user-focused applications.</p>
-
-<p>🔗 <a href="https://zen-yee.github.io/Zen_Portfolio/">View My Portfolio</a></p>
+## 🎯 Currently
+ 
+- 📰 Building **Zenlogue**, my full-stack blog platform and main learning project
+- 🧩 Growing **ZenKit**, my reusable React component library
+- 💼 Open to junior full-stack roles where I can build efficient, user-focused applications
 
 ## 🛠️ Skills
 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zen-Yee&layout=compact&hide_title=1&card_width=300">
-  <br>
-</div>
+Languages: JavaScript, SQL, HTML, CSS
+Frontend: React, Axios, TipTap
+Backend: Node.js, Express
+Database: PostgreSQL, MySQL
+Tools: Git, Vercel, Render
 
-**Frontend:** React, React Router, Axios, TipTap  
-**Backend:** Node.js, Express, PostgreSQL, JWT Authentication  
-**Tooling & Practices:** REST API design, role-based access control, service/controller/middleware architecture, cursor & offset pagination
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zen-Yee&layout=compact&hide_title=1&card_width=300" alt="Top languages" /> </div>
 
 ## 🚀 Projects
 
 ### 📰 Zenlogue
-A full-stack blog platform — my primary learning vehicle for backend architecture and modern React.
+A full-stack blog platform.
 
-- JWT authentication via HTTP-only cookies with a tri-state auth context and protected routing
-- Ownership-based authorization for posts and comments
-- Rich text editing with TipTap, content stored as JSON in PostgreSQL `jsonb`
+- JWT auth via HTTP-only cookies, with protected routes and ownership-based authorization for posts and comments
+- TipTap rich text editor, with content stored as JSON in PostgreSQL `jsonb`
 - Cursor-based pagination with infinite scroll for comments
-- Like/dislike reactions using a junction table with PostgreSQL upsert patterns
-- Full CRUD backend with service/controller/middleware layering
+- Like/dislike reactions using a junction table and PostgreSQL upserts
 
-**Tech Stack:** React, Express, PostgreSQL, JWT, TipTap  
-**Live Demo:** _(add your deployed link once live)_  
-**Repository:** [Zenlogue-2.0-blogwebsite](https://github.com/Zen-Yee/Zenlogue-2.0-blogwebsite)
+`React` `Express` `PostgreSQL` `JWT` `TipTap`  
 
-### 🧩 ZenKit
-A personal reusable React component library built in CodeSandbox, used to practice reusable UI architecture and animation.
-
-- Component library spanning Controls, Disclosure, and Forms
-- Custom accordion, carousel, icon button, and progress bar components
-- Animation patterns including CSS grid transitions and Framer Motion
-
-**Tech Stack:** React, CSS, Framer Motion  
-**Repository:** _(add your ZenKit repository link)_
+**Live Demo:** [Zenlogue](https://zenlogue.vercel.app/) 
+**Repository:** [Zenlogue](https://github.com/Zen-Yee/Zenlogue)
 
 ### 🌦️ Weather App
 A weather application for practicing API integration and secure API key handling. Displays live and forecast weather data using WeatherAPI.
 
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express  
-**Live Demo:** [View on GitHub Pages](https://zen-yee.github.io/Basic-Weather-App/)  
+`JavaScript` `Node.js` `Express`
+
 **Repository:** [Basic-Weather-App](https://github.com/Zen-Yee/Basic-Weather-App)
+
+## 📊 GitHub Stats
+ 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zen-Yee&show_icons=true&hide_border=true" alt="GitHub stats" />
+</div>
+
+
+## 📫 Let's Connect
+ 
+- 🌐 Portfolio: [zen-yee.github.io/Zen_Portfolio](https://zen-yee.github.io/Zen_Portfolio/)
+- 💼 LinkedIn: [linkedin.com/in/qian-hui-yee](https://www.linkedin.com/in/qian-hui-yee-66a394205/)
