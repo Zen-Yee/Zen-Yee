@@ -21,18 +21,20 @@ On my own time I build full-stack apps with **React, Node.js/Express and Postgre
 ## 🎯 Currently
  
 - 📰 Building **Zenlogue**, my full-stack blog platform and main learning project
-- 🧩 Growing **ZenKit**, my reusable React component library
 - 💼 Open to junior full-stack roles where I can build efficient, user-focused applications
 
 ## 🛠️ Skills
 
-Languages: JavaScript, SQL, HTML, CSS
-Frontend: React, Axios, TipTap
-Backend: Node.js, Express
-Database: PostgreSQL, MySQL
-Tools: Git, Vercel, Render
+- Languages: JavaScript, SQL, HTML, CSS  
+- Frontend: React, Axios, TipTap  
+- Backend: Node.js, Express  
+- Database: PostgreSQL, MySQL  
+- Tools: Git, Vercel, Render  
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zen-Yee&layout=compact&hide_title=1&card_width=300" alt="Top languages" /> </div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zen-Yee">
+</p>
+
 
 ## 🚀 Projects
 
@@ -55,13 +57,6 @@ A weather application for practicing API integration and secure API key handling
 `JavaScript` `Node.js` `Express`
 
 **Repository:** [Basic-Weather-App](https://github.com/Zen-Yee/Basic-Weather-App)
-
-## 📊 GitHub Stats
- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zen-Yee&show_icons=true&hide_border=true" alt="GitHub stats" />
-</div>
-
 
 ## 📫 Let's Connect
  
